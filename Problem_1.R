@@ -33,8 +33,8 @@ as.numeric(aDate)
 ## that correspond to the two dates
 
 ## The following results in NA values
-## as R does not know how to map
-## the string '2017-11-09' to a number
+## because R does not know how to map
+## the strings '2017-11-09' and '2017-08-11' to a numbers.
 
 as.numeric(aChar) 
 
