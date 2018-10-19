@@ -21,13 +21,3 @@ str(bitcoins)
 # h)
 
 # i)
-
-# j)
-
-# k)
-
-# l) Ljung–Box test for autocorrelation of up to order 10
-
-# m)
-
-# n)
